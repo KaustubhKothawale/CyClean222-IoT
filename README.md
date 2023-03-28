@@ -2,6 +2,7 @@
 To run this please install mosquitto broker on your local machine.
 
 sudo apt-get install mosquitto
+
 sudo apt-get install mosquitto-clients
 
 Set the username to "username" and password to "pass"
